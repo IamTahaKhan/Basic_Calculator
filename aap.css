@@ -1,0 +1,53 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: wheat;
+    text-align: center;
+    border: 4px sloid black;
+}
+body{
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-56228.jpg?w=740&t=st=1664481790~exp=1664482390~hmac=7baa4fed78a262614ad7bc78e0b225404957c0c72b76b4ee23b7adb2879679df");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+
+}
+#a1{
+    padding: 18px;
+    margin: 30px;
+}
+#a2{
+    padding: 18px;
+    margin: 30px;
+}
+#a11{
+    padding: 18px;
+    margin: 30px;
+
+}
+#a12{
+    padding: 18px;
+    margin: 30px;
+
+}
+#a13{
+    padding: 18px;
+    margin: 30px;
+
+}
+#a14{
+    padding: 18px;
+    margin: 30px;
+
+}
+#a21{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 12px;
+    
+}
+#i0{
+    border: 4px black;
+}
